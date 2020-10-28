@@ -1,1 +1,2 @@
+include ':new_calendar'
 include ':app'
